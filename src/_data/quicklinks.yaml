@@ -1,5 +1,11 @@
 ---
 links:
+  - title: Gandi
+    url: "https://gandi.link/f/afb607d1"
+    desc: Oferta de 75% de desconto num pacote Simple Hosting S+ e 20% de desconto na compra ou transferência de um nome de domínio.
+- title: Digital Ocean
+    url: "https://m.do.co/c/57cc4be61176"
+    desc: Simplificamos o lançamento no cloud e aumentamos à medida que se cresce.
   - title: Dreamhost
     url: "https://www.netlifycms.org/"
     desc: Open source content management for your Git workflow
@@ -9,6 +15,4 @@ links:
   - title: Bluehost
     url: "https://github.com/alpinejs/alpine"
     desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Digital Ocean
-    url: "https://m.do.co/c/57cc4be61176"
-    desc: Simplificamos o lançamento no cloud e aumentamos à medida que se cresce.
+
